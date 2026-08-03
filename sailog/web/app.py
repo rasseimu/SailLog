@@ -1,6 +1,6 @@
 from __future__ import annotations
 from pathlib import Path
-from fastapi import FastAPI, Request, Form, BackgroundTasks
+from fastapi import FastAPI, Request, Form, BackgroundTasks, HTTPException
 from fastapi.responses import RedirectResponse, HTMLResponse, FileResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
@@ -35,9 +35,12 @@ def create_app(config: Config | None = None) -> FastAPI:
 
     @app.post("/upload")
     def upload(background: BackgroundTasks, source: str = Form(...)):
+        name = Path(source).name
+        candidate = (config.cleaned_dir / name).resolve()
+        if name != source or candidate.parent != config.cleaned_dir.resolve() or not candidate.is_file():
+            raise HTTPException(status_code=400, detail="invalid source")
         s = store()
-        src = config.cleaned_dir / source
-        sid = s.create_session(video_path=str(src))
+        sid = s.create_session(video_path=str(config.cleaned_dir / name))
         background.add_task(_run_pipeline, sid)
         return RedirectResponse(f"/sessions/{sid}", status_code=303)
 

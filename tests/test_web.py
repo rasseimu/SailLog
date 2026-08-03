@@ -38,3 +38,24 @@ def test_add_manual_tag(config):
                 follow_redirects=False)
     tags = store.get_situation_tags(sid)
     assert tags[0].kind == "wind" and tags[0].source == "manual"
+
+def test_upload_rejects_path_traversal(config):
+    (config.cleaned_dir).mkdir(parents=True, exist_ok=True)
+    store = Store.open(config)
+    client = TestClient(create_app(config))
+    r = client.post("/upload", data={"source": "../../etc/passwd"},
+                    follow_redirects=False)
+    assert r.status_code == 400
+    assert store.list_sessions() == []
+
+def test_set_speaker_role(config):
+    store = Store.open(config)
+    sid = store.create_session(video_path="cleaned/x_cleaned.MOV")
+    sp_id = store.add_speaker(sid, "SPEAKER_00")
+    client = TestClient(create_app(config))
+    r = client.post(f"/sessions/{sid}/roles",
+                    data={"speaker_id": str(sp_id), "role": "coach"},
+                    follow_redirects=False)
+    assert r.status_code == 303
+    speakers = store.get_speakers(sid)
+    assert speakers[0].role == "coach"
