@@ -1,0 +1,24 @@
+{% extends "base.html" %}{% block body %}
+<h1>セッション #{{ sess.id }} — {{ sess.status }}</h1>
+<video id="player" src="/media/{{ sess.id }}" controls width="640"></video>
+<h2>発話</h2>
+<ul>{% for u in utterances %}
+  <li><a href="#" class="seek" data-t="{{ u.start_s }}">[{{ '%.1f'|format(u.start_s) }}s]</a>
+  {{ speakers[u.speaker_id].role or speakers[u.speaker_id].label if u.speaker_id else '?' }}
+  {% if u.target_speaker_id %}→ {{ speakers[u.target_speaker_id].role or speakers[u.target_speaker_id].label }}{% endif %}:
+  {{ u.text }}</li>
+{% endfor %}</ul>
+<h2>選手サマリ</h2>
+{% for s in summaries %}<div class="summary"><h3>{{ s.player }}</h3>
+<p>{{ s.data.summary }}</p><ul>{% for a in s.data.advice %}
+  <li>{{ a.category }}: {{ a.text }}</li>{% endfor %}</ul></div>{% endfor %}
+{% if links %}<h2>反復指摘</h2><ul>{% for l in links %}
+  <li>advice {{ l.advice_id_a }} ≈ {{ l.advice_id_b }} (類似度 {{ '%.2f'|format(l.similarity) }})</li>
+{% endfor %}</ul>{% endif %}
+<h2>状況タグ</h2>
+<form method="post" action="/sessions/{{ sess.id }}/tags">
+  種別<input name="kind"> 値<input name="value">
+  開始<input name="start_s" value="0"> 終了<input name="end_s" value="0">
+  <button>追加</button></form>
+<ul>{% for t in tags %}<li>{{ t.kind }}={{ t.value }} ({{ t.start_s }}-{{ t.end_s }})</li>{% endfor %}</ul>
+{% endblock %}

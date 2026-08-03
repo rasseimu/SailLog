@@ -1,0 +1,4 @@
+{% extends "base.html" %}{% block body %}
+<h1>{{ name }} の指摘履歴</h1>
+<ul>{% for a in advice %}<li>[#{{ a.session_id }}] {{ a.category }}: {{ a.text }}</li>{% endfor %}</ul>
+{% endblock %}

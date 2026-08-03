@@ -1,0 +1,11 @@
+{% extends "base.html" %}{% block body %}
+<h1>セッション</h1>
+<form method="post" action="/upload">
+  <label>クリーン動画:
+    <select name="source">{% for c in cleaned %}<option>{{ c }}</option>{% endfor %}</select>
+  </label><button type="submit">解析する</button>
+</form>
+<ul>{% for s in sessions %}
+  <li><a href="/sessions/{{ s.id }}">#{{ s.id }} {{ s.video_path }}</a> — {{ s.status }}</li>
+{% endfor %}</ul>
+{% endblock %}
