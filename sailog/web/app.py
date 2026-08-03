@@ -48,6 +48,8 @@ def create_app(config: Config | None = None) -> FastAPI:
     def session_view(request: Request, sid: int):
         s = store()
         sess = s.get_session(sid)
+        if sess is None:
+            raise HTTPException(status_code=404, detail="session not found")
         speakers = {sp.id: sp for sp in s.get_speakers(sid)}
         return templates.TemplateResponse(request, "session.html", {
             "sess": sess, "speakers": speakers,
@@ -57,6 +59,8 @@ def create_app(config: Config | None = None) -> FastAPI:
     @app.get("/media/{sid}")
     def media(sid: int):
         sess = store().get_session(sid)
+        if sess is None:
+            raise HTTPException(status_code=404, detail="session not found")
         return FileResponse(sess.video_path)
 
     @app.post("/sessions/{sid}/tags")

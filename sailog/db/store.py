@@ -67,6 +67,10 @@ class Store:
         self.conn.execute("UPDATE speakers SET role=? WHERE id=?", (role, speaker_id))
         self.conn.commit()
 
+    def clear_speakers(self, session_id) -> None:
+        self.conn.execute("DELETE FROM speakers WHERE session_id=?", (session_id,))
+        self.conn.commit()
+
     # --- utterances ---
     def add_utterance(self, session_id, start_s, end_s, speaker_id, target_speaker_id, text) -> int:
         cur = self.conn.execute(
@@ -80,6 +84,10 @@ class Store:
             "SELECT * FROM utterances WHERE session_id=? ORDER BY start_s", (session_id,)).fetchall()
         return [Utterance(r["id"], r["session_id"], r["start_s"], r["end_s"],
                           r["speaker_id"], r["target_speaker_id"], r["text"]) for r in rs]
+
+    def clear_utterances(self, session_id) -> None:
+        self.conn.execute("DELETE FROM utterances WHERE session_id=?", (session_id,))
+        self.conn.commit()
 
     # --- situation tags ---
     def add_situation_tag(self, session_id, start_s, end_s, kind, value, source) -> int:

@@ -52,6 +52,7 @@ def run(session_id: int, store, config) -> None:
         coach = next((s.label for s in speakers if s.role == "coach"), None)
         utts = group_utterances(words, turns)
         infer_targets(utts, coach)
+        store.clear_utterances(session_id)
         for u in utts:
             if not u["text"]:
                 continue

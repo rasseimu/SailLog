@@ -24,6 +24,7 @@ def run(session_id: int, store, config) -> None:
         turns = diarize(Path(sess.clean_path), config)
         (out_dir / "turns.json").write_text(
             json.dumps(turns, ensure_ascii=False), encoding="utf-8")
+        store.clear_speakers(session_id)
         seen = set()
         for t in turns:
             if t["label"] not in seen:

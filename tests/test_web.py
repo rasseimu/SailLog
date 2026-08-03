@@ -59,3 +59,13 @@ def test_set_speaker_role(config):
     assert r.status_code == 303
     speakers = store.get_speakers(sid)
     assert speakers[0].role == "coach"
+
+def test_media_unknown_session_returns_404(config):
+    client = TestClient(create_app(config))
+    r = client.get("/media/99999")
+    assert r.status_code == 404
+
+def test_session_view_unknown_session_returns_404(config):
+    client = TestClient(create_app(config))
+    r = client.get("/sessions/99999")
+    assert r.status_code == 404
