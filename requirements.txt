@@ -1,0 +1,10 @@
+faster-whisper==1.0.3
+pyannote.audio==3.1.1
+anthropic>=0.40
+sentence-transformers>=3.0
+numpy>=1.26
+fastapi>=0.115
+uvicorn>=0.30
+jinja2>=3.1
+python-multipart>=0.0.9
+pytest>=8.0

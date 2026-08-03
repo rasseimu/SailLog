@@ -838,7 +838,6 @@ from ..ingest.audio import extract_audio, audio_duration
 def run_deepfilter(raw_wav: Path, clean_dir: Path, expected: Path, deadline_s: float) -> None:
     # Ported verbatim from denoise_local.py — DeepFilter hangs on exit, so we
     # poll the output size and kill it once stable. See memory deepfilter-hangs-on-exit.
-    from ..config import Config  # noqa: F401 (kept local; DEEPFILTER resolved below)
     deepfilter = str(Path(__file__).resolve().parents[2] / ".venv" / "bin" / "deepFilter")
     proc = subprocess.Popen([deepfilter, str(raw_wav), "-o", str(clean_dir)],
                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -1194,8 +1193,9 @@ def find_repeats(session_id: int, store, config) -> int:
                  if p.id < a.id and p.embedding is not None]
         av = to_vec(a.embedding)
         for p in prior:
-            if cosine(av, to_vec(p.embedding)) >= config.repeated_threshold:
-                store.add_repeated_link(a.id, p.id, cosine(av, to_vec(p.embedding)))
+            sim = cosine(av, to_vec(p.embedding))
+            if sim >= config.repeated_threshold:
+                store.add_repeated_link(a.id, p.id, sim)
                 created += 1
     return created
 ```
@@ -1655,6 +1655,12 @@ def create_app(config: Config | None = None) -> FastAPI:
     def store() -> Store:
         return Store.open(config)
 
+    def _run_pipeline(sid: int) -> None:
+        # Open a fresh Store in the worker thread — sqlite connections are
+        # bound to the thread that created them, so the request-thread Store
+        # must not cross into the background task.
+        runner.run(sid, Store.open(config), config)
+
     @app.get("/", response_class=HTMLResponse)
     def index(request: Request):
         sessions = store().list_sessions()
@@ -1668,7 +1674,7 @@ def create_app(config: Config | None = None) -> FastAPI:
         s = store()
         src = config.cleaned_dir / source
         sid = s.create_session(video_path=str(src))
-        background.add_task(runner.run, sid, store(), config)
+        background.add_task(_run_pipeline, sid)
         return RedirectResponse(f"/sessions/{sid}", status_code=303)
 
     @app.get("/sessions/{sid}", response_class=HTMLResponse)
