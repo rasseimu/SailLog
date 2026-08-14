@@ -403,9 +403,10 @@ import { parseGpsPoints } from '../src/gps.js';
 const HEADER = ['time', 'latitude', 'longitude', 'speed', 'bearing', 'horizontalAccuracy'];
 
 test('parses rows into sorted points with ns->ms', () => {
+  // 実データ相当の Sensor Logger ns（いずれも >1e15 で ns->ms 変換が一様に効く）
   const rows = [
-    ['2000000000000000', '35.3', '139.48', '1.5', '90', '20'],
-    ['1000000000000000', '35.1', '139.40', '2.5', '80', '30'],
+    ['1786078534949943000', '35.3', '139.48', '1.5', '90', '20'], // 後 -> pts[1]
+    ['1786078509603689000', '35.1', '139.40', '2.5', '80', '30'], // 先 -> pts[0]
   ];
   const pts = parseGpsPoints(HEADER, rows);
   assert.equal(pts.length, 2);
