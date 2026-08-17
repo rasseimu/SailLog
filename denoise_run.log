@@ -1,0 +1,119 @@
+Found 23 MOV(s) in gdrive/; writing to cleaned/
+
+[1/23] IMG_1579.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_1579_cleaned.MOV
+[2/23] IMG_1580.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_1580_cleaned.MOV
+[3/23] IMG_1583.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_1583_cleaned.MOV
+[4/23] IMG_3110.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_3110_cleaned.MOV
+[5/23] IMG_4707.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_4707_cleaned.MOV
+[6/23] IMG_6040.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6040_cleaned.MOV
+[7/23] IMG_6041.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6041_cleaned.MOV
+[8/23] IMG_6044.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6044_cleaned.MOV
+[9/23] IMG_6045.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6045_cleaned.MOV
+[10/23] IMG_6046.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6046_cleaned.MOV
+[11/23] IMG_6048.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6048_cleaned.MOV
+[12/23] IMG_6049.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6049_cleaned.MOV
+[13/23] IMG_6050.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6050_cleaned.MOV
+[14/23] IMG_6051.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6051_cleaned.MOV
+[15/23] IMG_6052.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6052_cleaned.MOV
+[16/23] IMG_6053.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6053_cleaned.MOV
+[17/23] IMG_6054.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6054_cleaned.MOV
+[18/23] IMG_6055.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_6055_cleaned.MOV
+[19/23] IMG_8048.mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_8048_cleaned.MOV
+[20/23] IMG_8049.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_8049_cleaned.MOV
+[21/23] IMG_8050.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_8050_cleaned.MOV
+[22/23] IMG_8051.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_8051_cleaned.MOV
+[23/23] IMG_8052.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  ✓ done: IMG_8052_cleaned.MOV
+
+Summary: 23 processed, 0 skipped, 0 failed.

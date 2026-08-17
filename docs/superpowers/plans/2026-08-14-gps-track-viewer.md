@@ -457,6 +457,12 @@ function numOrNull(cell) {
   return Number.isFinite(n) ? n : null;
 }
 
+// 必須数値列用: 空文字/未定義/非数値は NaN（Number('')===0 の取りこぼしを防ぐ）
+function reqNum(cell) {
+  if (cell === undefined || String(cell).trim() === '') return NaN;
+  return Number(cell);
+}
+
 // header/rows から Point[] を生成。必須列欠損・不正行はスキップ、t昇順ソート。
 export function parseGpsPoints(header, rows) {
   const iTime = colIndex(header, 'time');
@@ -470,8 +476,8 @@ export function parseGpsPoints(header, rows) {
   const points = [];
   for (const row of rows) {
     const t = parseTime(row[iTime]);
-    const lat = Number(row[iLat]);
-    const lon = Number(row[iLon]);
+    const lat = reqNum(row[iLat]);
+    const lon = reqNum(row[iLon]);
     if (Number.isNaN(t)) continue;
     if (!Number.isFinite(lat) || lat < -90 || lat > 90) continue;
     if (!Number.isFinite(lon) || lon < -180 || lon > 180) continue;
@@ -636,7 +642,7 @@ import { parseTags } from '../src/tags.js';
 
 test('range events from start/end', () => {
   const ev = parseTags(['start', 'end', 'label'],
-    [['1000000000000000', '1000000000005000', 'upwind']]);
+    [['1786078560000000000', '1786078620000000000', 'upwind']]);
   assert.equal(ev.length, 1);
   assert.equal(ev[0].kind, 'range');
   assert.equal(ev[0].label, 'upwind');

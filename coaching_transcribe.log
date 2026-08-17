@@ -1,0 +1,2361 @@
+python(10634) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(12567) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(18099) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(18100) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(19431) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(24138) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(26637) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(26638) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(26764) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(29667) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30020) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30021) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30079) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Found 228 video(s); 4 already in transcripts.csv.
+Loading faster-whisper model 'medium' (CPU, int8) …
+
+• 12 7/2024-12-07_1447-南南西-3.6_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1447-南南西-3.6_01_cleaned.MOV  (0 segments)
+
+• 12 7/2024-12-07_1530-南西-3.6_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1530-南西-3.6_05_cleaned.MOV  (5 segments)
+
+• 12 7/2024-12-07_1530-南西-3.6_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1530-南西-3.6_06_cleaned.MOV  (5 segments)
+
+• 12 7/2024-12-07_1538-南西-3.6_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1538-南西-3.6_07_cleaned.MOV  (1 segments)
+
+• 12 7/2024-12-07_1548-南西-3.6_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1548-南西-3.6_08_cleaned.MOV  (2 segments)
+
+• 12 7/2024-12-07_1548-南西-3.6_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/12 7/2024-12-07_1548-南西-3.6_09_cleaned.MOV  (2 segments)
+
+• 1228/2024-12-28_1331-南西-2.5_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1331-南西-2.5_01_cleaned.MOV  (4 segments)
+
+• 1228/2024-12-28_1415-南西-2.5_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1415-南西-2.5_02_cleaned.MOV  (10 segments)
+
+• 1228/2024-12-28_1454-南西-3.5_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1454-南西-3.5_03_cleaned.MOV  (12 segments)
+
+• 1228/2024-12-28_1458-南西-3.5_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1458-南西-3.5_04_cleaned.MOV  (20 segments)
+
+• 1228/2024-12-28_1501-南西-3.5_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1501-南西-3.5_05_cleaned.MOV  (1 segments)
+
+• 1228/2024-12-28_1517-南西-3.5_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1517-南西-3.5_06_cleaned.MOV  (7 segments)
+
+• 1228/2024-12-28_1521-南西-3.5_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1521-南西-3.5_07_cleaned.MOV  (1 segments)
+
+• 1228/2024-12-28_1525-南西-3.5_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1525-南西-3.5_08_cleaned.MOV  (24 segments)
+
+• 1228/2024-12-28_1529-南西-3.5_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1529-南西-3.5_09_cleaned.MOV  (4 segments)
+
+• 1228/2024-12-28_1530-西-2.3_10.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1530-西-2.3_10_cleaned.MOV  (19 segments)
+
+• 1228/2024-12-28_1535-西-2.3_11.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1535-西-2.3_11_cleaned.MOV  (4 segments)
+
+• 1228/2024-12-28_1538-西-2.3_12.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/1228/2024-12-28_1538-西-2.3_12_cleaned.MOV  (3 segments)
+
+• 2025 03 04/2025-03-04_1306-北-3.5_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 03 04/2025-03-04_1306-北-3.5_01_cleaned.MOV  (1 segments)
+
+• 2025 03 04/2025-03-04_1338-北-4.1_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 03 04/2025-03-04_1338-北-4.1_02_cleaned.MOV  (0 segments)
+
+• 2025 2月22日/2025-02-22_1031-南-1.5_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1031-南-1.5_01_cleaned.MOV  (16 segments)
+
+• 2025 2月22日/2025-02-22_1034-南-1.5_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1034-南-1.5_02_cleaned.MOV  (7 segments)
+
+• 2025 2月22日/2025-02-22_1035-南-1.5_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1035-南-1.5_03_cleaned.MOV  (1 segments)
+
+• 2025 2月22日/2025-02-22_1037-南-1.5_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1037-南-1.5_04_cleaned.MOV  (0 segments)
+
+• 2025 2月22日/2025-02-22_1141-南南西-2.5_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1141-南南西-2.5_05_cleaned.MOV  (5 segments)
+
+• 2025 2月22日/2025-02-22_1216-南南西-2.5_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 2月22日/2025-02-22_1216-南南西-2.5_06_cleaned.MOV  (0 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1117-南西-4.7_駿水さんコーチング_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1117-南西-4.7_駿水さんコーチング_02_cleaned.MOV  (229 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1204-南西-4.0_駿水さんコーチング_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1204-南西-4.0_駿水さんコーチング_03_cleaned.MOV  (222 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1231-南南西-7.3_駿水さんコーチング_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1231-南南西-7.3_駿水さんコーチング_04_cleaned.MOV  (106 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1526-東南東-2.3_駿水さんコーチング_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1526-東南東-2.3_駿水さんコーチング_05_cleaned.MOV  (1 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1552-南南東-1.7_駿水さんコーチング_06.MOVpython(30447) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30567) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30568) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30603) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30747) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30883) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30884) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(30921) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31090) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31134) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31135) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31169) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31219) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31232) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31233) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31258) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31289) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31390) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31391) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31416) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31497) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31515) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31516) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31532) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31545) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31635) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31636) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31666) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31736) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31783) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31784) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31812) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31894) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31907) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31908) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31934) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31976) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31989) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(31990) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32010) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32024) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32033) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32034) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32057) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32166) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32175) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32176) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32199) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32245) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32263) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32264) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32293) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32362) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32371) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32372) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32388) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32420) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32441) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32442) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32464) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32497) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32515) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32516) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32544) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32569) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32590) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32591) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32617) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32658) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32722) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32723) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32747) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32831) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32871) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32872) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32902) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32939) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32972) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32973) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(32995) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33077) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33121) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33122) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33148) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33187) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33237) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33238) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33258) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1552-南南東-1.7_駿水さんコーチング_06_cleaned.MOV  (3 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1601-南南東-1.7_駿水さんコーチング_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1601-南南東-1.7_駿水さんコーチング_07_cleaned.MOV  (9 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1612-南-2.3_駿水さんコーチング_01.MP4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1612-南-2.3_駿水さんコーチング_01_cleaned.MOV  (4 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1636-北北東-2.5_駿水さんコーチング_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1636-北北東-2.5_駿水さんコーチング_08_cleaned.MOV  (5 segments)
+
+• 2025 3 17 駿水さんコーチング/2025-03-17_1756-北北東-2.0_駿水さんコーチング_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 17 駿水さんコーチング/2025-03-17_1756-北北東-2.0_駿水さんコーチング_09_cleaned.MOV  (7 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0922-北北東-3.0_駿水さんコーチング_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0922-北北東-3.0_駿水さんコーチング_01_cleaned.MOV  (3 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0928-北北東-3.0_駿水さんコーチング_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0928-北北東-3.0_駿水さんコーチング_02_cleaned.MOV  (14 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0937-北北東-3.1_駿水さんコーチング_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0937-北北東-3.1_駿水さんコーチング_03_cleaned.MOV  (22 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0940-北北東-3.1_駿水さんコーチング_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0940-北北東-3.1_駿水さんコーチング_04_cleaned.MOV  (3 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0952-北北東-3.1_駿水さんコーチング_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0952-北北東-3.1_駿水さんコーチング_05_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_0953-北北東-3.1_駿水さんコーチング_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_0953-北北東-3.1_駿水さんコーチング_06_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1008-北北東-3.1_駿水さんコーチング_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1008-北北東-3.1_駿水さんコーチング_07_cleaned.MOV  (14 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1008-北北東-3.1_駿水さんコーチング_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1008-北北東-3.1_駿水さんコーチング_08_cleaned.MOV  (13 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1010-北北東-3.1_駿水さんコーチング_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1010-北北東-3.1_駿水さんコーチング_09_cleaned.MOV  (4 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1016-北北東-3.1_駿水さんコーチング_10.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1016-北北東-3.1_駿水さんコーチング_10_cleaned.MOV  (2 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1017-北北東-3.1_駿水さんコーチング_11.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1017-北北東-3.1_駿水さんコーチング_11_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1023-北北東-3.1_駿水さんコーチング_12.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1023-北北東-3.1_駿水さんコーチング_12_cleaned.MOV  (5 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1029-北北東-3.1_駿水さんコーチング_13.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1029-北北東-3.1_駿水さんコーチング_13_cleaned.MOV  (5 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1035-北北東-2.4_駿水さんコーチング_14.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1035-北北東-2.4_駿水さんコーチング_14_cleaned.MOV  (5 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1107-北北東-2.4_駿水さんコーチング_15.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1107-北北東-2.4_駿水さんコーチング_15_cleaned.MOV  (22 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1130-東北東-1.8_駿水さんコーチング_16.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1130-東北東-1.8_駿水さんコーチング_16_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1143-東北東-1.8_駿水さんコーチング_17.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1143-東北東-1.8_駿水さんコーチング_17_cleaned.MOV  (7 segments)python(33301) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33319) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33320) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33338) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33364) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33369) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33370) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33386) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33391) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33408) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33409) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33429) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33446) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33464) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33467) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33487) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33509) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33524) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33525) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33542) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33567) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33610) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33611) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33649) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33689) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33749) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33750) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33806) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33927) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33949) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33950) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(33977) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34039) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34058) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34059) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34079) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34109) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34159) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34160) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34186) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34276) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34319) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34320) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34354) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34421) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34458) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34459) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34491) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34537) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34559) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34560) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34582) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34774) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34815) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34816) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34844) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34889) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34906) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34907) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34925) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(34980) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35007) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35008) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35028) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35146) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35184) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35185) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35205) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35365) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35376) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35377) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35399) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35420) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35449) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35450) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35493) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35559) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35593) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35594) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35629) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35663) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35674) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35675) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35730) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35747) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35802) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35803) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35835) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1145-東北東-1.8_駿水さんコーチング_18.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1145-東北東-1.8_駿水さんコーチング_18_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1147-東北東-1.8_駿水さんコーチング_19.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1147-東北東-1.8_駿水さんコーチング_19_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1148-東北東-1.8_駿水さんコーチング_20.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1148-東北東-1.8_駿水さんコーチング_20_cleaned.MOV  (6 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1152-東北東-1.8_駿水さんコーチング_21.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1152-東北東-1.8_駿水さんコーチング_21_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1152-東北東-1.8_駿水さんコーチング_22.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1152-東北東-1.8_駿水さんコーチング_22_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1155-東北東-1.8_駿水さんコーチング_23.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1155-東北東-1.8_駿水さんコーチング_23_cleaned.MOV  (2 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1201-東北東-1.8_駿水さんコーチング_24.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1201-東北東-1.8_駿水さんコーチング_24_cleaned.MOV  (26 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1356-南-1.7_駿水さんコーチング_25.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1356-南-1.7_駿水さんコーチング_25_cleaned.MOV  (19 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1401-南-1.7_駿水さんコーチング_26.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1401-南-1.7_駿水さんコーチング_26_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1408-南-1.7_駿水さんコーチング_27.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1408-南-1.7_駿水さんコーチング_27_cleaned.MOV  (20 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1420-南-1.7_駿水さんコーチング_28.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1420-南-1.7_駿水さんコーチング_28_cleaned.MOV  (8 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1422-南-1.7_駿水さんコーチング_29.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1422-南-1.7_駿水さんコーチング_29_cleaned.MOV  (6 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1457-南-2.8_駿水さんコーチング_30.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1457-南-2.8_駿水さんコーチング_30_cleaned.MOV  (17 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1510-南-2.8_駿水さんコーチング_31.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1510-南-2.8_駿水さんコーチング_31_cleaned.MOV  (12 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1516-南-2.8_駿水さんコーチング_32.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1516-南-2.8_駿水さんコーチング_32_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1523-南-2.8_駿水さんコーチング_33.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1523-南-2.8_駿水さんコーチング_33_cleaned.MOV  (14 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1525-南-2.8_駿水さんコーチング_34.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1525-南-2.8_駿水さんコーチング_34_cleaned.MOV  (5 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1550-南-2.3_駿水さんコーチング_35.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1550-南-2.3_駿水さんコーチング_35_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1552-南-2.3_駿水さんコーチング_36.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1552-南-2.3_駿水さんコーチング_36_cleaned.MOV  (5 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1612-南-2.3_駿水さんコーチング_37.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1612-南-2.3_駿水さんコーチング_37_cleaned.MOV  (1 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1613-南-2.3_駿水さんコーチング_38.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1613-南-2.3_駿水さんコーチング_38_cleaned.MOV  (0 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1625-南-2.3_駿水さんコーチング_39.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1625-南-2.3_駿水さんコーチング_39_cleaned.MOV  (2 segments)
+
+• 2025 3 18 駿水さんコーチング/2025-03-18_1627-南-2.3_駿水さんコーチング_40.MOVpython(35898) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35959) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35960) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(35980) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36062) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36126) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36127) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36177) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36227) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36240) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36241) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36257) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36292) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36302) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36303) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36326) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36427) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36440) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36441) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36459) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36492) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36514) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36515) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36531) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36559) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36578) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36579) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36609) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36659) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36712) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36713) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36733) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36817) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36839) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36840) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36862) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36881) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36911) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36912) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36932) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(36981) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(37329) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(37330) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(37381) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(37845) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38139) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38140) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38168) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38436) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38628) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38629) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38653) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(38793) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39052) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39053) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39073) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39194) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39422) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39423) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39454) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39694) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39889) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39890) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(39914) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40134) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40433) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40434) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40461) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40721) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40903) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40904) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(40924) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41059) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41212) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41213) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41233) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41369) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41801) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41802) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(41837) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42117) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42361) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42362) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42401) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42598) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42794) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42795) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(42823) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43004) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43436) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43441) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43469) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43740) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43829) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43830) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43848) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43937) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43982) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(43983) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44013) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44057) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 18 駿水さんコーチング/2025-03-18_1627-南-2.3_駿水さんコーチング_40_cleaned.MOV  (10 segments)
+
+• 2025 3 8/2025-03-08_1014-北北東-3.2_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 8/2025-03-08_1014-北北東-3.2_01_cleaned.MOV  (4 segments)
+
+• 2025 3 9/2025-03-09_1048-北北東-5.0_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1048-北北東-5.0_01_cleaned.MOV  (1 segments)
+
+• 2025 3 9/2025-03-09_1048-北北東-5.0_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1048-北北東-5.0_02_cleaned.MOV  (5 segments)
+
+• 2025 3 9/2025-03-09_1111-北北東-5.0_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1111-北北東-5.0_03_cleaned.MOV  (9 segments)
+
+• 2025 3 9/2025-03-09_1422-北北東-4.0_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1422-北北東-4.0_04_cleaned.MOV  (1 segments)
+
+• 2025 3 9/2025-03-09_1423-北北東-4.0_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1423-北北東-4.0_05_cleaned.MOV  (1 segments)
+
+• 2025 3 9/2025-03-09_1520-東-3.5_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1520-東-3.5_06_cleaned.MOV  (2 segments)
+
+• 2025 3 9/2025-03-09_1602-東-2.9_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1602-東-2.9_07_cleaned.MOV  (0 segments)
+
+• 2025 3 9/2025-03-09_1609-東-2.9_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 3 9/2025-03-09_1609-東-2.9_08_cleaned.MOV  (1 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1022-南-2.9_優吾さんコーチング_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1022-南-2.9_優吾さんコーチング_01_cleaned.MOV  (21 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1027-南-2.9_優吾さんコーチング_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1027-南-2.9_優吾さんコーチング_02_cleaned.MOV  (2 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1029-南-3.1_優吾さんコーチング_23.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1029-南-3.1_優吾さんコーチング_23_cleaned.MOV  (1 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1038-南-2.8_優吾さんコーチング_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1038-南-2.8_優吾さんコーチング_03_cleaned.MOV  (8 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1039-南-2.8_優吾さんコーチング_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1039-南-2.8_優吾さんコーチング_04_cleaned.MOV  (6 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1040-南-2.8_優吾さんコーチング_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1040-南-2.8_優吾さんコーチング_05_cleaned.MOV  (14 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1046-南-2.8_優吾さんコーチング_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1046-南-2.8_優吾さんコーチング_06_cleaned.MOV  (19 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1048-南-2.8_優吾さんコーチング_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1048-南-2.8_優吾さんコーチング_07_cleaned.MOV  (8 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1053-南-2.8_優吾さんコーチング_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1053-南-2.8_優吾さんコーチング_08_cleaned.MOV  (7 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1112-南-2.8_優吾さんコーチング_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1112-南-2.8_優吾さんコーチング_09_cleaned.MOV  (9 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1114-南-2.8_優吾さんコーチング_10.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1114-南-2.8_優吾さんコーチング_10_cleaned.MOV  (8 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1116-南-2.8_優吾さんコーチング_11.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1116-南-2.8_優吾さんコーチング_11_cleaned.MOV  (11 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1123-南-2.8_優吾さんコーチング_12.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1123-南-2.8_優吾さんコーチング_12_cleaned.MOV  (7 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1125-南-2.8_優吾さんコーチング_13.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1125-南-2.8_優吾さんコーチング_13_cleaned.MOV  (6 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1131-南-2.9_優吾さんコーチング_14.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1131-南-2.9_優吾さんコーチング_14_cleaned.MOV  (7 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1140-南-2.9_優吾さんコーチング_15.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)python(44199) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44200) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44265) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44468) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44587) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44588) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44635) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44776) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44845) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44846) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44880) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(44975) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45110) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45111) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45151) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45300) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45500) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45501) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45535) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45728) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45821) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45822) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45844) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(45932) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46091) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46092) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46121) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46287) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46421) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46422) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46454) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(46563) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(48502) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(48503) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(48769) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51442) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51443) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51444) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51461) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51489) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51547) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51548) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51571) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51720) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51741) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51742) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51762) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51784) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51918) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51919) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(51948) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52108) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52140) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52141) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52163) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52200) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52286) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52287) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52387) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52469) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52558) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52559) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52587) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52687) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52782) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52783) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(52826) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53161) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53246) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53249) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53288) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53442) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53487) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53488) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53539) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53599) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53666) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53667) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53703) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53808) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53934) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53935) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(53981) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54141) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54195) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54196) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54217) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54258) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54290) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54291) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54309) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1140-南-2.9_優吾さんコーチング_15_cleaned.MOV  (4 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1145-南-2.9_優吾さんコーチング_16.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1145-南-2.9_優吾さんコーチング_16_cleaned.MOV  (3 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1411-南-4.1_優吾さんコーチング_17.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1411-南-4.1_優吾さんコーチング_17_cleaned.MOV  (16 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1540-南-3.9_優吾さんコーチング_18.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1540-南-3.9_優吾さんコーチング_18_cleaned.MOV  (8 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1552-南-3.9_優吾さんコーチング_19.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1552-南-3.9_優吾さんコーチング_19_cleaned.MOV  (10 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1555-南-3.9_優吾さんコーチング_20.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1555-南-3.9_優吾さんコーチング_20_cleaned.MOV  (4 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_1600-南-3.9_優吾さんコーチング_21.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_1600-南-3.9_優吾さんコーチング_21_cleaned.MOV  (13 segments)
+
+• 2025 7 4 優吾さんコーチング/2025-07-04_2328-南南西-0.8_優吾さんコーチング_22.mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025 7 4 優吾さんコーチング/2025-07-04_2328-南南西-0.8_優吾さんコーチング_22_cleaned.MOV  (9 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_0901-北-2.6_駿水さんコーチング_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_0901-北-2.6_駿水さんコーチング_01_cleaned.MOV  (160 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1026-北北東-1.6_駿水さんコーチング_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1026-北北東-1.6_駿水さんコーチング_02_cleaned.MOV  (1 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1029-北北東-1.6_駿水さんコーチング_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1029-北北東-1.6_駿水さんコーチング_03_cleaned.MOV  (25 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1035-東-1.1_駿水さんコーチング_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1035-東-1.1_駿水さんコーチング_04_cleaned.MOV  (1 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1047-東-1.1_駿水さんコーチング_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1047-東-1.1_駿水さんコーチング_05_cleaned.MOV  (38 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1102-東-1.1_駿水さんコーチング_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1102-東-1.1_駿水さんコーチング_06_cleaned.MOV  (2 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1438-南西-1.0_駿水さんコーチング_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1438-南西-1.0_駿水さんコーチング_07_cleaned.MOV  (16 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1532-南南西-1.5_駿水さんコーチング_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1532-南南西-1.5_駿水さんコーチング_08_cleaned.MOV  (0 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1537-南南西-1.5_駿水さんコーチング_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1537-南南西-1.5_駿水さんコーチング_09_cleaned.MOV  (79 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1549-南南西-1.5_駿水さんコーチング_10.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1549-南南西-1.5_駿水さんコーチング_10_cleaned.MOV  (9 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1556-南南西-1.5_駿水さんコーチング_11.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1556-南南西-1.5_駿水さんコーチング_11_cleaned.MOV  (10 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1614-南南西-1.5_駿水さんコーチング_12.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1614-南南西-1.5_駿水さんコーチング_12_cleaned.MOV  (17 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1618-南南西-1.5_駿水さんコーチング_13.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1618-南南西-1.5_駿水さんコーチング_13_cleaned.MOV  (0 segments)
+
+• 2025.3.11 駿水さんコーチング/2025-03-11_1626-南南西-1.5_駿水さんコーチング_14.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/2025.3.11 駿水さんコーチング/2025-03-11_1626-南南西-1.5_駿水さんコーチング_14_cleaned.MOV  (0 segments)
+
+• 3 24/2025-03-24_1415-南南西-2.7_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribingpython(54331) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54357) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54358) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54374) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54464) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54478) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54479) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54495) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54523) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54542) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54543) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54565) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54650) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54677) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54678) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54696) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54814) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54825) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54828) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54848) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54896) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54920) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54921) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(54946) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55075) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55084) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55085) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55105) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55143) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55153) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55154) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55174) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55196) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55197) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55202) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55216) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55223) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55224) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55225) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55242) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55251) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55259) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55260) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55284) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55306) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55311) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55312) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55334) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55352) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55361) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55362) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55395) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55406) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55426) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55427) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55443) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55462) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55476) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55477) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55493) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55515) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55541) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55543) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55561) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55589) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55632) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55633) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55653) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55767) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55786) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55787) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55806) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55851) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55865) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55866) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55886) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55914) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55936) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55937) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(55988) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56046) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56054) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56055) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56073) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56083) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56101) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56102) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56118) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56146) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56155) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56156) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56177) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56191) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56203) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56204) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56220) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56242) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56263) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56264) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56285) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56308) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56333) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56334) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56354) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56413) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56428) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56429) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56452) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56486) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56505) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56506) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56536) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56602) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56632) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56633) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56655) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56717) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56724) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56725) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56742) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56747) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56792) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56793) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56813) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56897) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56925) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(56926) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+  ✓ done: cleaned_video/3 24/2025-03-24_1415-南南西-2.7_01_cleaned.MOV  (0 segments)
+
+• 3,11/2024-03-11_1415-西南西-1.7_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/3,11/2024-03-11_1415-西南西-1.7_01_cleaned.MOV  (10 segments)
+
+• 3,11/2024-03-11_1441-南南東-1.4_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/3,11/2024-03-11_1441-南南東-1.4_02_cleaned.MOV  (12 segments)
+
+• 3,11/2024-03-11_1442-南南東-1.4_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/3,11/2024-03-11_1442-南南東-1.4_03_cleaned.MOV  (9 segments)
+
+• 8月28日/2024-08-28_0857-南南東-1.2_18.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0857-南南東-1.2_18_cleaned.MOV  (8 segments)
+
+• 8月28日/2024-08-28_0902-南南東-1.2_19.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0902-南南東-1.2_19_cleaned.MOV  (4 segments)
+
+• 8月28日/2024-08-28_0907-南南東-1.2_20.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0907-南南東-1.2_20_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_0908-南南東-1.2_21.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0908-南南東-1.2_21_cleaned.MOV  (6 segments)
+
+• 8月28日/2024-08-28_0911-南南東-1.2_22.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0911-南南東-1.2_22_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_0911-南南東-1.2_23.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0911-南南東-1.2_23_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_0914-南南東-1.2_24.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0914-南南東-1.2_24_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_0917-南南東-1.2_25.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0917-南南東-1.2_25_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_0919-南南東-1.2_26.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0919-南南東-1.2_26_cleaned.MOV  (2 segments)
+
+• 8月28日/2024-08-28_0932-南-1.3_27.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0932-南-1.3_27_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_0934-南-1.3_28.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0934-南-1.3_28_cleaned.MOV  (4 segments)
+
+• 8月28日/2024-08-28_0934-南-1.3_29.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0934-南-1.3_29_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_0935-南-1.3_30.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_0935-南-1.3_30_cleaned.MOV  (2 segments)
+
+• 8月28日/2024-08-28_1006-南-2.7_01.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1006-南-2.7_01_cleaned.MOV  (28 segments)
+
+• 8月28日/2024-08-28_1010-南-2.7_02.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1010-南-2.7_02_cleaned.MOV  (9 segments)
+
+• 8月28日/2024-08-28_1022-南-1.3_31.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1022-南-1.3_31_cleaned.MOV  (3 segments)
+
+• 8月28日/2024-08-28_1025-南-2.7_03.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1025-南-2.7_03_cleaned.MOV  (14 segments)
+
+• 8月28日/2024-08-28_1029-南-1.3_32.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1029-南-1.3_32_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_1043-南南東-1.3_33.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1043-南南東-1.3_33_cleaned.MOV  (5 segments)
+
+• 8月28日/2024-08-28_1049-南南東-1.3_34.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1049-南南東-1.3_34_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1055-南南東-1.9_04.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1055-南南東-1.9_04_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_1103-南南東-1.3_35.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1103-南南東-1.3_35_cleaned.MOV  (3 segments)
+
+• 8月28日/2024-08-28_1103-南南東-1.9_05.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1103-南南東-1.9_05_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1104-南南東-1.9_06.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1104-南南東-1.9_06_cleaned.MOV  (3 segments)
+
+• 8月28日/2024-08-28_1106-南南東-1.3_36.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1106-南南東-1.3_36_cleaned.MOV  (14 segments)
+
+• 8月28日/2024-08-28_1106-南南東-1.3_37.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1106-南南東-1.3_37_cleaned.MOV  (13 segments)
+
+• 8月28日/2024-08-28_1107-南南東-1.9_07.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1107-南南東-1.9_07_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_1130-南南西-4.5_08.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1130-南南西-4.5_08_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1133-南南東-1.5_38.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto videopython(56951) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57038) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57079) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57080) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57106) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57155) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57255) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57256) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57311) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57479) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57499) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57500) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57521) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57548) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57590) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57591) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57613) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57670) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57689) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57690) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57706) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57730) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57740) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57742) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57762) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57771) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57874) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57876) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57908) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(57945) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58000) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58001) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58038) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58153) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58215) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58216) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58243) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58294) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58299) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58300) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58318) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58339) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58376) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58377) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58393) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58479) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58520) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58521) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58544) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58633) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58673) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58674) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58692) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58737) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58749) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58754) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58772) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58811) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58842) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58844) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58873) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58913) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58960) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(58961) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59035) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59146) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59151) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59152) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59172) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59193) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59218) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59219) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59293) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59390) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59417) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59418) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59476) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59569) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59590) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59591) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59629) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59667) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59676) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59677) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59699) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59764) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59796) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59797) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59858) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59926) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59942) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59943) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59967) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(59994) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60013) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60014) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60064) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60098) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60154) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60155) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60216) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60389) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60425) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60426) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60518) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60717) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60738) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60739) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60803) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60863) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60868) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60869) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60905) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60922) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60971) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(60972) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61048) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61258) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61263) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61264) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61289) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61290) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61299) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61300) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61316) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1133-南南東-1.5_38_cleaned.MOV  (8 segments)
+
+• 8月28日/2024-08-28_1135-南南東-1.5_39.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1135-南南東-1.5_39_cleaned.MOV  (17 segments)
+
+• 8月28日/2024-08-28_1145-南南東-1.5_40.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1145-南南東-1.5_40_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1157-南南西-4.5_09.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1157-南南西-4.5_09_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_1204-南南西-4.5_10.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1204-南南西-4.5_10_cleaned.MOV  (1 segments)
+
+• 8月28日/2024-08-28_1216-南南東-1.5_41.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1216-南南東-1.5_41_cleaned.MOV  (3 segments)
+
+• 8月28日/2024-08-28_1220-南南東-1.5_42.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1220-南南東-1.5_42_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1229-南南東-1.5_43.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1229-南南東-1.5_43_cleaned.MOV  (5 segments)
+
+• 8月28日/2024-08-28_1243-南-3.3_11.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1243-南-3.3_11_cleaned.MOV  (4 segments)
+
+• 8月28日/2024-08-28_1303-南-3.3_12.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1303-南-3.3_12_cleaned.MOV  (10 segments)
+
+• 8月28日/2024-08-28_1304-南-3.3_13.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1304-南-3.3_13_cleaned.MOV  (8 segments)
+
+• 8月28日/2024-08-28_1350-南-2.3_14.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1350-南-2.3_14_cleaned.MOV  (0 segments)
+
+• 8月28日/2024-08-28_1401-南-2.3_15.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1401-南-2.3_15_cleaned.MOV  (16 segments)
+
+• 8月28日/2024-08-28_1424-南-2.3_16.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1424-南-2.3_16_cleaned.MOV  (18 segments)
+
+• 8月28日/2024-08-28_1425-南-2.3_17.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_1425-南-2.3_17_cleaned.MOV  (4 segments)
+
+• 8月28日/2024-08-28_2216-北-1.6_44.mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/8月28日/2024-08-28_2216-北-1.6_44_cleaned.MOV  (0 segments)
+
+• 土居一斗さん/動画/681287216.991633.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287216.991633_cleaned.MOV  (40 segments)
+
+• 土居一斗さん/動画/681287217.272081.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287217.272081_cleaned.MOV  (5 segments)
+
+• 土居一斗さん/動画/681287217.814887.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287217.814887_cleaned.MOV  (19 segments)
+
+• 土居一斗さん/動画/681287217.915511.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287217.915511_cleaned.MOV  (20 segments)
+
+• 土居一斗さん/動画/681287218.097983.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287218.097983_cleaned.MOV  (21 segments)
+
+• 土居一斗さん/動画/681287218.190254.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287218.190254_cleaned.MOV  (22 segments)
+
+• 土居一斗さん/動画/681287218.491214.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287218.491214_cleaned.MOV  (17 segments)
+
+• 土居一斗さん/動画/681287218.579993.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287218.579993_cleaned.MOV  (16 segments)
+
+• 土居一斗さん/動画/681287218.674161.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/681287218.674161_cleaned.MOV  (0 segments)
+
+• 土居一斗さん/動画/701855559.096172.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/701855559.096172_cleaned.MOV  (60 segments)
+
+• 土居一斗さん/動画/701855559.224272.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/701855559.224272_cleaned.MOV  (75 segments)
+
+• 土居一斗さん/動画/701855559.902754.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/701855559.902754_cleaned.MOV  (14 segments)
+
+• 土居一斗さん/動画/サイドベンド確認.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/サイドベンド確認_cleaned.MOV  (13 segments)
+
+• 土居一斗さん/動画/ジブセール.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/ジブセール_cleaned.MOV  (68 segments)
+
+• 土居一斗さん/動画/ジャイブ_軽風_土居さんクルー.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/ジャイブ_軽風_土居さんクルー_cleaned.MOV  (0 segments)
+
+• 土居一斗さん/動画/ベンド.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/ベンド_cleaned.MOV  (0 segments)python(61323) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61334) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61335) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61357) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61366) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61373) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61374) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61394) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61417) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61431) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61432) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61452) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61467) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61482) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61483) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61509) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61554) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61564) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61565) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61590) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61664) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61679) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61680) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61712) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61866) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61871) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61872) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61889) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61909) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61935) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61936) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(61964) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62006) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62276) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62277) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62315) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62837) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62946) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62947) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(62972) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(63166) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(63542) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(63543) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(63574) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(64100) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(64356) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(64357) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(64402) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(64721) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65010) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65011) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65092) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65509) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65522) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65523) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65539) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65591) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65596) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65597) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65618) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65639) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65705) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65706) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(65827) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66099) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66206) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66207) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66270) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66529) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66556) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66557) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66594) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66776) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66777) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66778) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66796) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66809) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66821) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66822) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66848) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66871) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66920) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66925) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(66976) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67241) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67244) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67245) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67267) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67296) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67318) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67319) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67349) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67383) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67404) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67405) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67427) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67507) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67512) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67513) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67529) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67538) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67546) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67547) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67572) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67615) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67620) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67621) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67639) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67675) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67680) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67681) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67699) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(67716) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68011) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68012) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68062) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68292) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68301) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68302) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68342) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68493) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68494) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68495) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68517) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68529) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+
+
+• 土居一斗さん/動画/レーキ測り方.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/レーキ測り方_cleaned.MOV  (5 segments)
+
+• 土居一斗さん/動画/レーキ測り方②.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/レーキ測り方②_cleaned.MOV  (3 segments)
+
+• 土居一斗さん/動画/レーキ測り方③.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/レーキ測り方③_cleaned.MOV  (3 segments)
+
+• 土居一斗さん/動画/レーキ測り方④.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/レーキ測り方④_cleaned.MOV  (13 segments)
+
+• 土居一斗さん/動画/乗艇位置.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/乗艇位置_cleaned.MOV  (21 segments)
+
+• 土居一斗さん/動画/土居さんクルー.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/動画/土居さんクルー_cleaned.MOV  (0 segments)
+
+• 土居一斗さん/陸連 ロールタック.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/土居一斗さん/陸連 ロールタック_cleaned.MOV  (3 segments)
+
+• 市野直毅さん/動画/IMG_4672.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_4672_cleaned.MOV  (14 segments)
+
+• 市野直毅さん/動画/IMG_7941(1).mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7941(1)_cleaned.MOV  (19 segments)
+
+• 市野直毅さん/動画/IMG_7941(2).mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7941(2)_cleaned.MOV  (13 segments)
+
+• 市野直毅さん/動画/IMG_7941.mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7941_cleaned.MOV  (27 segments)
+
+• 市野直毅さん/動画/IMG_7942(1).mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7942(1)_cleaned.MOV  (26 segments)
+
+• 市野直毅さん/動画/IMG_7942(2).MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7942(2)_cleaned.MOV  (14 segments)
+
+• 市野直毅さん/動画/IMG_7942.mov
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/市野直毅さん/動画/IMG_7942_cleaned.MOV  (2 segments)
+
+• 高木克也さん/20220515_160134.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/20220515_160134_cleaned.MOV  (0 segments)
+
+• 高木克也さん/20220515_163916.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/20220515_163916_cleaned.MOV  (45 segments)
+
+• 高木克也さん/IMG_1438.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1438_cleaned.MOV  (62 segments)
+
+• 高木克也さん/IMG_1450.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1450_cleaned.MOV  (31 segments)
+
+• 高木克也さん/IMG_1453.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1453_cleaned.MOV  (4 segments)
+
+• 高木克也さん/IMG_1461.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1461_cleaned.MOV  (10 segments)
+
+• 高木克也さん/IMG_1463.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1463_cleaned.MOV  (90 segments)
+
+• 高木克也さん/IMG_1465.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_1465_cleaned.MOV  (15 segments)
+
+• 高木克也さん/IMG_8989.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_8989_cleaned.MOV  (8 segments)
+
+• 高木克也さん/IMG_8990.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/IMG_8990_cleaned.MOV  (16 segments)
+
+• 高木克也さん/アフタープラー.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/アフタープラー_cleaned.MOV  (3 segments)
+
+• 高木克也さん/ジブセールの高さ①.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/ジブセールの高さ①_cleaned.MOV  (10 segments)
+
+• 高木克也さん/ジブセールの高さ②.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/ジブセールの高さ②_cleaned.MOV  (1 segments)
+
+• 高木克也さん/ジブリーダーの位置①.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/ジブリーダーの位置①_cleaned.MOV  (2 segments)
+
+• 高木克也さん/スプレッダーとサイドステーの結び方.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/スプレッダーとサイドステーの結び方_cleaned.MOV  (54 segments)
+
+• 高木克也さん/センターボード　マーキング①.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/センターボード　マーキング①_cleaned.MOV  (32 segments)
+
+• 高木克也さん/センターボード　マーキング②.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/センターボード　マーキング②_cleaned.MOV  (5 segments)
+
+• 高木克也さん/センターボード　マーキング③.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+python(68534) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68535) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68571) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68596) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68636) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68637) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68682) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68915) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68956) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(68957) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69009) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69310) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69311) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69312) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69343) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69379) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69386) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69387) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69408) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69417) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69426) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69427) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69474) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69604) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69616) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69618) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69642) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69695) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69715) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69716) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+python(69740) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/センターボード　マーキング③_cleaned.MOV  (14 segments)
+
+• 高木克也さん/センターボード　マーキング④.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/センターボード　マーキング④_cleaned.MOV  (53 segments)
+
+• 高木克也さん/センターボードのマーキング①.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/センターボードのマーキング①_cleaned.MOV  (42 segments)
+
+• 高木克也さん/トラピーズのテークル.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/トラピーズのテークル_cleaned.MOV  (12 segments)
+
+• 高木克也さん/トラピーズの根本(マスト部分).MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/トラピーズの根本(マスト部分)_cleaned.MOV  (3 segments)
+
+• 高木克也さん/トラベラーの位置.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/トラベラーの位置_cleaned.MOV  (59 segments)
+
+• 高木克也さん/バテンの入れ方.MOV
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/バテンの入れ方_cleaned.MOV  (17 segments)
+
+• 高木克也さん/ラフワイヤー.mp4
+  ♪ extracting audio
+  ✦ denoising (DeepFilterNet3)
+  ⧉ muxing cleaned audio onto video
+  📝 transcribing
+  ✓ done: cleaned_video/高木克也さん/ラフワイヤー_cleaned.MOV  (21 segments)
+
+Summary: 224 processed, 4 skipped, 0 failed. CSV → /Users/reimurase/Library/CloudStorage/GoogleDrive-cy23247@shibaura-it.ac.jp/マイドライブ/練習動画/コーチング(beta)/transcripts.csv

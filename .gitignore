@@ -5,6 +5,10 @@
 *.mp4
 *.m4a
 
+# Partial downloads / download staging (yt-dlp leaves *.part files)
+*.part
+prodl/staging/
+
 # Data & model artifacts
 data/
 cleaned/
