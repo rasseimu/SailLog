@@ -1,0 +1,18 @@
+=== mopup orchestrator started ===
+=== initial pass finished; beginning mop-up ===
+--- before mop-up pass 1: 117/204 on disk ---
+cooling 300s to let throttle reset before pass 1
+--- mop-up pass 1 complete ---
+--- before mop-up pass 2: 117/204 on disk ---
+cooling 300s to let throttle reset before pass 2
+--- mop-up pass 2 complete ---
+--- before mop-up pass 3: 117/204 on disk ---
+cooling 300s to let throttle reset before pass 3
+--- mop-up pass 3 complete ---
+--- before mop-up pass 4: 119/204 on disk ---
+cooling 300s to let throttle reset before pass 4
+--- mop-up pass 4 complete ---
+--- before mop-up pass 5: 166/204 on disk ---
+cooling 300s to let throttle reset before pass 5
+--- mop-up pass 5 complete ---
+=== MOPUP DONE: 166/204 videos present ===
